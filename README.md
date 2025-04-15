@@ -194,7 +194,7 @@ The script will visualize:
 
 - Final dehazed image
 
-##🧼 Guided Filter (gf.py)
+## 🧼 Guided Filter (gf.py)
 ### 📚 Purpose
 The Guided Filter smooths and refines images while preserving edges, useful especially for:
 
